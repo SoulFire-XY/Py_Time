@@ -18,4 +18,4 @@ U need to put
 -Hours 
 -Minutes
 -Seconds
-in whole numbers. Upon completion it will beep with the [Beep sound.exe](beep.mp3)
+in whole numbers. Upon completion it will beep with the [Beep sound.exe](beep.wav)
